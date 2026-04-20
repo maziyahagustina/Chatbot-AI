@@ -20,6 +20,4 @@ The system connects to a PostgreSQL database to retrieve relevant data and gener
 - Reduced manual query handling by approximately 50%  
 - Enhanced efficiency in accessing internal information  
 
-## 📷 (Optional)
-Add screenshots or demo of chatbot interface (Telegram / UI)
 
